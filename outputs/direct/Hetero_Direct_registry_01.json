@@ -1,0 +1,37 @@
+{
+  "registry_fractional": [
+    0.0,
+    0.0
+  ],
+  "atom_count": 64,
+  "species": {
+    "Cl": 12,
+    "La": 4,
+    "Na": 12,
+    "O": 24,
+    "Zr": 12
+  },
+  "surface_cell_a": 7.198552673273158,
+  "surface_cell_b": 7.1985526732731575,
+  "surface_cell_gamma_deg": 120.00000000000001,
+  "surface_area_A2": 44.87670947362854,
+  "physical_stack_height_A": 17.457691262364055,
+  "vacuum_gap_A": 15.0,
+  "interface_gap_A": 2.8,
+  "minimum_periodic_distance_A": 1.8553989414420862,
+  "strain_model": "ZRO2_REFERENCE",
+  "reference_strain_x": 0.0,
+  "reference_strain_y": 0.0,
+  "film_strain_x": -0.04287293268539305,
+  "film_strain_y": -0.04287293268539316,
+  "max_abs_strain": 0.04287293268539316,
+  "theoretical_zro2_111_A": 7.198347032479054,
+  "theoretical_direct_mismatch": -0.04290027489974016,
+  "zro2_expected_lattice_check": "PASS: ZrO2 bulk a=5.090145 A",
+  "na3lacl6_expected_lattice_check": "PASS: Na3LaCl6 bulk a=7.521000 A",
+  "pbc": [
+    true,
+    true,
+    true
+  ]
+}

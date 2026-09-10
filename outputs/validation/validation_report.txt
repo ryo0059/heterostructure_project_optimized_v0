@@ -1,0 +1,39 @@
+HETEROSTRUCTURE VALIDATION REPORT
+========================================================================
+
+FILE: C:\Users\ryoga\OneDrive\Documents\Kuliah\Tugas Akhir\heterostructure_project_optimized\outputs\direct\Hetero_Direct_registry_01.cif
+Atoms: 64
+Minimum global distance: 1.8554 Å
+Geometric interface gap: 2.8000 Å
+Nearest cross-interface distance: 2.9039 Å
+Estimated total vacuum: 15.0000 Å
+Cell lengths: 7.1986, 7.1986, 32.4577 Å
+Cell angles: 90.000, 90.000, 120.000 deg
+
+FILE: C:\Users\ryoga\OneDrive\Documents\Kuliah\Tugas Akhir\heterostructure_project_optimized\outputs\direct\Hetero_Direct_registry_02.cif
+Atoms: 64
+Minimum global distance: 1.8554 Å
+Geometric interface gap: 2.8000 Å
+Nearest cross-interface distance: 2.8557 Å
+Estimated total vacuum: 15.0000 Å
+Cell lengths: 7.1986, 7.1986, 32.4577 Å
+Cell angles: 90.000, 90.000, 120.000 deg
+
+FILE: C:\Users\ryoga\OneDrive\Documents\Kuliah\Tugas Akhir\heterostructure_project_optimized\outputs\direct\Hetero_Direct_registry_03.cif
+Atoms: 64
+Minimum global distance: 1.8554 Å
+Geometric interface gap: 2.8000 Å
+Nearest cross-interface distance: 2.9039 Å
+Estimated total vacuum: 15.0000 Å
+Cell lengths: 7.1986, 7.1986, 32.4577 Å
+Cell angles: 90.000, 90.000, 120.000 deg
+
+FILE: C:\Users\ryoga\OneDrive\Documents\Kuliah\Tugas Akhir\heterostructure_project_optimized\outputs\direct\Hetero_Direct_ZrO2_111_Na3LaCl6_0001.cif
+Atoms: 64
+Minimum global distance: 1.8554 Å
+Geometric interface gap: 2.8000 Å
+Nearest cross-interface distance: 2.9039 Å
+Estimated total vacuum: 15.0000 Å
+Cell lengths: 7.1986, 7.1986, 32.4577 Å
+Cell angles: 90.000, 90.000, 120.000 deg
+

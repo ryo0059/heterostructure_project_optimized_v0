@@ -1,0 +1,64 @@
+DME / 2D COINCIDENCE MATCHING REPORT
+================================================================================
+
+Status: NO_IMPROVED_DME_WITHIN_ATOM_LIMIT
+Direct mismatch: -4.290027%
+Final atom limit: 130
+
+TOP NONTRIVIAL 2D CANDIDATES
+--------------------------------------------------------------------------------
+#01 Z=(2, -2, -1, 2) H=(2, -2, -1, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#02 Z=(1, 0, -1, 2) H=(1, 0, -1, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#03 Z=(2, 0, -2, 1) H=(2, 0, -2, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#04 Z=(1, 0, -2, 2) H=(1, 0, -2, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#05 Z=(2, 0, -1, 1) H=(2, 0, -1, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#06 Z=(1, -1, 0, 2) H=(1, -1, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#07 Z=(2, -2, 0, 1) H=(2, -2, 0, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#08 Z=(2, 1, 2, 2) H=(1, 2, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#09 Z=(4, 1, 2, 1) H=(3, 4, 1, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#10 Z=(4, 2, 1, 1) H=(2, 4, 0, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#11 Z=(2, -1, -2, 2) H=(2, -1, -2, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#12 Z=(1, 0, 2, 2) H=(1, 1, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#13 Z=(1, 2, 0, 2) H=(1, 2, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#14 Z=(2, 0, 1, 1) H=(2, 2, 0, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#15 Z=(2, 1, 4, 3) H=(1, 2, 1, 4) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#16 Z=(2, 4, 0, 1) H=(2, 4, 0, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#17 Z=(2, 4, 1, 3) H=(2, 4, 1, 3) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#18 Z=(1, 0, 1, 2) H=(1, 1, -1, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#19 Z=(1, 3, 0, 2) H=(1, 3, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#20 Z=(1, 4, 0, 2) H=(1, 4, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#21 Z=(4, 3, 2, 2) H=(1, 4, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#22 Z=(1, -1, -1, 3) H=(1, -1, -1, 3) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#23 Z=(1, 0, 4, 2) H=(1, 1, 2, 4) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#24 Z=(2, 0, 2, 1) H=(2, 2, 1, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#25 Z=(3, -1, -1, 1) H=(3, -1, -1, 1) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#26 Z=(1, -3, 0, 2) H=(1, -3, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#27 Z=(1, -2, 0, 2) H=(1, -2, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#28 Z=(1, 0, 0, 2) H=(1, 0, 0, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#29 Z=(1, 0, 1, 2) H=(1, 0, 1, 2) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+#30 Z=(1, 2, 1, 4) H=(1, 2, 1, 4) atoms=128 misfit1=-4.2873% misfit2=-4.2873% area=-8.3908% angle=0.000 deg score=0.0877376
+
+DIRECTIONAL DME DIAGNOSTIC
+--------------------------------------------------------------------------------
+m*a_ZrO2(111) versus n*a_Na3LaCl6(0001)
+The estimated 2D atom count assumes the m:n repeat is used in both in-plane directions.
+
+m=23, n=22, residual=+0.06043%, lengths=165.562/165.462 A, estimated_2D_atoms=32596
+m=24, n=23, residual=-0.12872%, lengths=172.760/172.983 A, estimated_2D_atoms=35548
+m=22, n=21, residual=+0.26759%, lengths=158.364/157.941 A, estimated_2D_atoms=29772
+m=25, n=24, residual=-0.30211%, lengths=179.959/180.504 A, estimated_2D_atoms=38628
+m=26, n=25, residual=-0.46163%, lengths=187.157/188.025 A, estimated_2D_atoms=41836
+m=21, n=20, residual=+0.49547%, lengths=151.165/150.420 A, estimated_2D_atoms=27076
+m=27, n=26, residual=-0.60887%, lengths=194.355/195.546 A, estimated_2D_atoms=45172
+m=28, n=27, residual=-0.74521%, lengths=201.554/203.067 A, estimated_2D_atoms=48636
+m=20, n=19, residual=+0.74734%, lengths=143.967/142.899 A, estimated_2D_atoms=24508
+m=29, n=28, residual=-0.87181%, lengths=208.752/210.588 A, estimated_2D_atoms=52228
+m=30, n=29, residual=-0.98968%, lengths=215.950/218.109 A, estimated_2D_atoms=55948
+m=19, n=18, residual=+1.02719%, lengths=136.769/135.378 A, estimated_2D_atoms=22068
+m=18, n=17, residual=+1.33997%, lengths=129.570/127.857 A, estimated_2D_atoms=19756
+m=17, n=16, residual=+1.69185%, lengths=122.372/120.336 A, estimated_2D_atoms=17572
+m=16, n=15, residual=+2.09064%, lengths=115.174/112.815 A, estimated_2D_atoms=15516
+
+NO DME CANDIDATE IMPROVES ON DIRECT 1x1 WITHIN THE 130-ATOM LIMIT.
+Best nontrivial small candidate: Z=(2, -2, -1, 2), H=(2, -2, -1, 2), atoms=128, max_abs_misfit=4.2873%
+Keep Direct 1x1 as the primary DFT model.
